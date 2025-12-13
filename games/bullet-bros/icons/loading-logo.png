@@ -1,0 +1,1077 @@
+<script>window.location.href = '/404'</script><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="classroom 6x, classroom6x, classroom 6x unblocked, classroom 6x unblocked games" />
+                                           <meta name="description" content="Play Classroom 6x unblocked games online for free at Classroom-6x.org. Enjoy a wide variety of fun, educational games anytime, anywhere!" />
+            <meta name="robots" content="index, follow">
+    <link rel="shortcut icon" href="https://classroom-6x.org/static/img/logo/3281641466xunblocked.ico"
+        type="image/x-icon">
+    <title>
+        Classroom 6x Unblocked Games - Let&#039;s Play    </title>
+    <link rel="stylesheet" href="https://classroom-6x.org/themes/poko/css/style.css">
+    <script src="https://classroom-6x.org/js/tailwind.js"></script>
+    <link rel="stylesheet" href="https://classroom-6x.org/css/animate.css" />
+    <script src="https://classroom-6x.org/js/wow.min.js"></script>
+    <script>poko = { url: "https://classroom-6x.org/" }</script>
+    <script src="https://classroom-6x.org/js/toast.min.js"></script>
+    <link rel="stylesheet" href="https://classroom-6x.org/css/toast.min.css" />
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1EZLEHQ4DJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1EZLEHQ4DJ');
+</script>
+<meta name="google-site-verification" content="tdqFpTJJJljCaiekmKZ9l0c_KMdMNvp84q8EhTqi91w" />
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4938767041116941"
+     crossorigin="anonymous"></script>
+<style>
+.overlayVid {
+    position: absolute;
+    z-index: 9999;
+    width: 315px;
+    height: 260px;
+     top: 50%;
+    left: 50%;
+     margin-left: -155px;
+ margin-top: -150px;
+    transform: translate(-50%, -50%);
+ 
+    padding: 5px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.overlayVid .hideLink {
+    filter: alpha(opacity=100);
+    opacity: 100;
+    -moz-opacity: 1;
+    text-align: center;
+    cursor: pointer;
+    padding-top: 0px;
+    position: absolute;
+    bottom: 0px;
+    right: 1px;
+    width: 13px;
+    height: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    color: white;
+    font-size: 14px;
+}
+
+.overlayVid p {
+    margin: 0;
+}
+
+#popupPlay {
+    color: #a01515;
+/*    margin-top: -10px;*/
+    font-weight: bold;
+}
+
+.game-iframe-container {
+    position: relative;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.game-iframe {
+    width: 100%;
+    height: 560px;
+    border: 2px solid #ddd;
+    max-width: 960px;
+}
+
+@media (max-width: 768px) {
+    .game-iframe {
+        height: 400px;
+    }
+    
+    .overlayVid {
+        width: 250px;
+        height: 230px;
+    }
+}
+
+@media (max-width: 480px) {
+    .game-iframe {
+        height: 300px;
+    }
+    
+    .overlayVid {
+        width: 200px;
+        height: 185px;
+    }
+}
+
+#ad-box {
+  position: fixed; 
+    bottom: 20px;
+    right: 20px;
+     
+   /* width: 300px;
+    height: 250px;*/
+/*        background-color: white;*/
+
+    border: 2px solid #ddd;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    display: none;  
+    text-align: center;
+    padding: 10px;
+    z-index: 9999;  
+}
+
+
+#close-ad {
+    cursor: pointer;
+    font-size: 18px;
+    color: red;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}
+
+ #ad-boxs {
+  position: fixed; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+     width: 300px;
+    height: 275px;
+    background-color: #fff; 
+    border: 1px solid #ccc; 
+    z-index: 1000; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+
+#close-ads {
+ 
+    top: 5px;
+    right: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}        
+#ad-boxs p {
+    margin: 10px 0;
+}
+
+</style>    <style>
+        :root {
+            --theme-color:
+                #1583f9            ;
+        }
+    </style>
+</head>
+
+<body style="background-image: url('https://classroom-6x.org/static/img/bg.png')">
+     
+    <div class="offcanvas">
+        <div class="offcanvas-menu scroll-none">
+            <div class="flex sticky top-[15px] mt-4 z-40">
+                <form action="" class="live-search mr-10 w-full flex items-center bg-white p-1 rounded-lg">
+                    <button onclick="this.parentNode.parentNode.parentNode.parentNode.classList.remove('active')"
+                        type="button" class="px-4 py-2 for-desktop">
+                        <img class="rounded-full" width="40"
+                            src="https://classroom-6x.org/static/img/logo/5318401766xunblocked.ico" />
+                    </button>
+                    <button onclick="this.parentNode.parentNode.parentNode.parentNode.classList.remove('active')"
+                        type="button" class="px-4 py-2 rounded-lg for-mobile flex gap-1 w-[150px] items-center">
+                        <svg width="20px" height="20px" stroke-width="3" viewBox="0 0 24 24" fill="none"
+                            xmlns="http://www.w3.org/2000/svg" color="#8c8c8c">
+                            <path d="M15 6L9 12L15 18" stroke="#8c8c8c" stroke-width="4" stroke-linecap="round"
+                                stroke-linejoin="round"></path>
+                        </svg>
+                        <img width="40" class="rounded-full for-mobile"
+                            src="https://classroom-6x.org/static/img/logo/5318401766xunblocked.ico" />
+                    </button>
+                    <input type="text" placeholder="What are you playing today?"
+                        class="w-full mx-3 text-[#002b50] text-xl font-bold outline-none h-[40px] block">
+                    <button class="px-4 live-search-attached-button" disabled="true" type="button">
+                        <svg width="28px" height="28px" viewBox="0 0 24 24" stroke-width="1.1" fill="none"
+                            xmlns="http://www.w3.org/2000/svg" color="#8c8c8c">
+                            <path d="M17 17L21 21" stroke="#8c8c8c" stroke-width="3" stroke-linecap="round"
+                                stroke-linejoin="round"></path>
+                            <path
+                                d="M3 11C3 15.4183 6.58172 19 11 19C13.213 19 15.2161 18.1015 16.6644 16.6493C18.1077 15.2022 19 13.2053 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11Z"
+                                stroke="#8c8c8c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </svg>
+                    </button>
+                </form>
+                <button onclick="this.parentNode.parentNode.parentNode.classList.remove('active')"
+                    class="close-button bg-white h-[70px] flex justify-center items-center rounded-full w-[70px] absolute top-[-10px] right-[-40px]">
+                    <svg width="30px" height="30px" stroke-width="1.1" viewBox="0 0 24 24" fill="none"
+                        xmlns="http://www.w3.org/2000/svg" color="#8c8c8c">
+                        <path d="M15 6L9 12L15 18" stroke="#8c8c8c" stroke-width="3" stroke-linecap="round"
+                            stroke-linejoin="round"></path>
+                    </svg>
+                </button>
+            </div>
+            <div
+                class="search-error wow fadeInDown hidden p-4 bg-white mt-6 mx-2 mb-2">
+                <h5 class="font-bold text-lg">Hmm, nothing’s coming up for that.</h5>
+                <p class="text-sm text-gray-600 font-medium">Try searching for something else or play one of these great
+                    games.</p>
+            </div>
+            <div id="live-search-result" class="m-grid-start mt-4"></div>
+            <div id="offconvas-content">
+                <div class="flex flex-wrap RightFade relative gap-4 mt-4">
+                                            <a href="https://classroom-6x.org/2-player" class="category-link-box wow fadeInDown shadow-lg hover:bg-[var(--theme-color)] hover:text-white bg-white px-6 py-3 uppercase text-xs font-bold rounded-full">
+                            2 Player                        </a>
+                                            <a href="https://classroom-6x.org/action" class="category-link-box wow fadeInDown shadow-lg hover:bg-[var(--theme-color)] hover:text-white bg-white px-6 py-3 uppercase text-xs font-bold rounded-full">
+                            Action                        </a>
+                                            <a href="https://classroom-6x.org/adventure" class="category-link-box wow fadeInDown shadow-lg hover:bg-[var(--theme-color)] hover:text-white bg-white px-6 py-3 uppercase text-xs font-bold rounded-full">
+                            Adventure                        </a>
+                                            <a href="https://classroom-6x.org/car" class="category-link-box wow fadeInDown shadow-lg hover:bg-[var(--theme-color)] hover:text-white bg-white px-6 py-3 uppercase text-xs font-bold rounded-full">
+                            Car                        </a>
+                                            <a href="https://classroom-6x.org/flash" class="category-link-box wow fadeInDown shadow-lg hover:bg-[var(--theme-color)] hover:text-white bg-white px-6 py-3 uppercase text-xs font-bold rounded-full">
+                            Flash                        </a>
+                                            <a href="https://classroom-6x.org/idle" class="category-link-box wow fadeInDown shadow-lg hover:bg-[var(--theme-color)] hover:text-white bg-white px-6 py-3 uppercase text-xs font-bold rounded-full">
+                            Idle                        </a>
+                                            <a href="https://classroom-6x.org/io" class="category-link-box wow fadeInDown shadow-lg hover:bg-[var(--theme-color)] hover:text-white bg-white px-6 py-3 uppercase text-xs font-bold rounded-full">
+                            IO                        </a>
+                                            <a href="https://classroom-6x.org/puzzle" class="category-link-box wow fadeInDown shadow-lg hover:bg-[var(--theme-color)] hover:text-white bg-white px-6 py-3 uppercase text-xs font-bold rounded-full">
+                            Puzzle                        </a>
+                                            <a href="https://classroom-6x.org/running" class="category-link-box wow fadeInDown shadow-lg hover:bg-[var(--theme-color)] hover:text-white bg-white px-6 py-3 uppercase text-xs font-bold rounded-full">
+                            Running                        </a>
+                                    </div>
+                <div class="recent-uploaded-games">
+                    <h3 class="font-bold text-xl mt-6 mb-4">Recently added games</h3>
+                    <div class="m-grid-start">
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/bullet-bros">
+                                    <picture style="background-image: url('https://classroom-6x.org/wp-content/uploads/thumbs/custom/I/icon-13-150x150.png')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Bullet Bros                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/sudoku-daily">
+                                    <picture style="background-image: url('http://retrobowlubg.github.io/games/sudoku-online/icon_512.png')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Sudoku Daily                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/stack">
+                                    <picture style="background-image: url('https://classroom-6x.org/games/stack/stack.png')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Stack                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/stick-fighter">
+                                    <picture style="background-image: url('https://classroom-6x.org/games/stick-figher/icons/icon-256.png')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Stick Fighter                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/bomb-it-8">
+                                    <picture style="background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK4N0i83-IGBuz3Sfwx6KDrsYyOSL6wbYgAP3m-uf31hnNp8G2gsboc6BE89JH7QHmw7Epy3USn_ibm0KnmMNEDtetby2YhqGvPitzkVk6fAStKmmt567XE4qNoxRJzy_HinYiTYIYoWx4Cb-E0ei6QOPwrDdChsXyPFkTn1JGxuPcsZjEcGH77FnHiCdM/w264-h264-c/bomb-it-8.jpeg')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Bomb it 8                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/superhero-io">
+                                    <picture style="background-image: url('https://frivez.com/images/superhero-io.jpg')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Superhero IO                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/deepest-sword">
+                                    <picture style="background-image: url('https://classroom-6x.org/files/images/deepest-sword.png')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Deepest Sword                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/the-impossible-quiz">
+                                    <picture style="background-image: url('https://pocket-image-cache.com/255x255/https://play-lh.googleusercontent.com/OkHOm2NMrNCR3c9GcdZe2mV86bA6VqPWj4vIbE6vCuUFChqFAfNEh-vhYHG2JqIK8Wo')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                The Impossible Quiz                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/tower-defense">
+                                    <picture style="background-image: url('https://frivez.com/images/tower-defense.jpg')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Tower Defense                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/subway-surfers-winter-holiday">
+                                    <picture style="background-image: url('https://ubg77.github.io/updatefaqs/subway-surfers-winter-holiday/logo.png')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Subway Surfers Winter Holiday                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/18-wheeler-accident-lawyer-atlanta">
+                                    <picture style="background-image: url('https://slope-game.github.io/18-wheeler-cargo-simulator/logo.png')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                18 Wheeler Accident Lawyer Atlanta                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/plonky">
+                                    <picture style="background-image: url('https://play-lh.googleusercontent.com/37iUpEXB3mkrYkL07ZZBxfOqDVKrNB9jWW5DYrI0-ChlTjLJ7s2zAcLnfNZ6hKYTh9Ze=w240-h480-rw')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Plonky                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                                    <div class="m-game-card wow fadeInDown">
+                                <a class="m-game-link" href="https://classroom-6x.org/game/tung-sahur-clicker">
+                                    <picture style="background-image: url('https://gamulo.com/wp-content/uploads/thumbs/custom/T/tung-tung-tung-sahur-clicker-logo-150x150.png')"
+                                        class="m-game-thumbnail">
+                                        <div class="m-game-details">
+                                            <p>
+                                                Tung Sahur Clicker                                            </p>
+                                        </div>
+                                    </picture>
+                                </a>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mvn-container px-3">
+        <div class="mx-2">
+    <div class="flex gap-4 page-content-container">
+        <nav class="navbar flex justify-between items-center p-4 bg-white">
+    <a aria-label="logo" href="https://classroom-6x.org/">
+        <img src="https://classroom-6x.org/static/img/logo/880805930site-logo-041958.png" alt="Classroom 6x - Unblocked Games" />
+    </a>
+    <div class="flex navbar-shortcut flex-col gap-2">
+        <a aria-label="home"  class="block hover:bg-gray-200 transition duration-300 h-10 w-10 flex justify-center items-center rounded-lg"
+            href="https://classroom-6x.org/">
+            <svg width="26px" height="26px" stroke-width="1.1" viewBox="0 0 24 24" fill="none"
+                xmlns="http://www.w3.org/2000/svg" color="#8c8c8c">
+                <path
+                    d="M9 21H7C4.79086 21 3 19.2091 3 17V10.7076C3 9.30887 3.73061 8.01175 4.92679 7.28679L9.92679 4.25649C11.2011 3.48421 12.7989 3.48421 14.0732 4.25649L19.0732 7.28679C20.2694 8.01175 21 9.30887 21 10.7076V17C21 19.2091 19.2091 21 17 21H15M9 21V17C9 15.3431 10.3431 14 12 14V14C13.6569 14 15 15.3431 15 17V21M9 21H15"
+                    stroke="#111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                </path>
+            </svg>
+        </a>
+        <button aria-label="search" name="search bar menu button" onclick="document.querySelector('.offcanvas').classList.toggle('active')"
+            class="block hover:bg-gray-200 transition duration-300 h-10 w-10 flex open-menu justify-center items-center rounded-lg">
+            <svg width="26px" height="26px" viewBox="0 0 24 24" stroke-width="1.1" fill="none"
+                xmlns="http://www.w3.org/2000/svg" color="#8c8c8c">
+                <path d="M17 17L21 21" stroke="#111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                </path>
+                <path
+                    d="M3 11C3 15.4183 6.58172 19 11 19C13.213 19 15.2161 18.1015 16.6644 16.6493C18.1077 15.2022 19 13.2053 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11Z"
+                    stroke="#111" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                </path>
+            </svg>
+        </button>
+    </div>
+</nav>        <div class="page-content bg-white p-6 w-full">
+            <h1 class="mb-4"></h1>
+                    </div>
+    </div>
+</div>
+<div class="flex justify-center items-center min-h-[100vh] ">
+    <div class="empty-class">
+        <h1 style="color: var(--zon-common-text-color);" class="text-8xl font-bold " >404</h1>
+        <hr class="mt-4 mb-4" >
+        <p class="text-center" style="color: var(--zon-common-text-color);" >Page not found</p>
+    </div>
+</div>    </div>
+
+    <footer class="p-4 mt-20 relative bg-white ">
+        <div class="mx-4">
+            <div class="mvn-container h-not-full flex justify-between items-center">
+                <div class="flex items-center">
+                    <img src="https://classroom-6x.org/static/img/logo/880805930site-logo-041958.png" width="100" />
+                    <h3 class="ml-6 text-xl font-bold text-[#002b50]">Let the world play</h3>
+                </div>
+                <div class="flex footer-links">
+                                            <a class="underline capitalize text-lg text-gray-600 mx-2"
+                            href="https://classroom-6x.org/c/terms">
+                            Terms                        </a>
+                                            <a class="underline capitalize text-lg text-gray-600 mx-2"
+                            href="https://classroom-6x.org/c/contact">
+                            Contact                        </a>
+                                            <a class="underline capitalize text-lg text-gray-600 mx-2"
+                            href="https://classroom-6x.org/c/privacy-policy">
+                            Privacy Policy                        </a>
+                                    </div>
+            </div>
+        </div>
+        <a href="https://1v1lol.org/" target="_blank" rel="dofollow">
+    1v1.LOL
+</a> | 
+
+<a href="https://1v1lolunblocked.org/" target="_blank" rel="dofollow">
+    1v1.LOL Unblocked
+</a> | 
+
+<a href="https://asmallworldcup.org/" target="_blank" rel="dofollow">
+    A Small World Cup
+</a> | 
+
+<a href="http://basket-random.org/" target="_blank" rel="dofollow">
+    Basket Random
+</a> | 
+
+<a href="https://basketballlegends.net/" target="_blank" rel="dofollow">
+    Basketball Legends
+</a> | 
+
+<a href="https://cookieclicker.pro/" target="_blank" rel="dofollow">
+    Cookie Clicker
+</a> | 
+
+<a href="https://crazygames.ee/" target="_blank" rel="dofollow">
+    Crazy Unblocked Games
+</a> | 
+
+<a href="https://crossyroad.org/" target="_blank" rel="dofollow">
+    Crossy Road
+</a> | 
+
+<a href="https://dinosaurgame.org/" target="_blank" rel="dofollow">
+    Dinosaur Game
+</a> | 
+
+<a href="https://doodlejump.net/" target="_blank" rel="dofollow">
+    Doodle Jump
+</a> | 
+<a href="https://ragdollhit.org/" target="_blank" rel="dofollow">
+    Ragdoll Hit
+</a> | 
+<a href="https://dreadheadparkour.org/" target="_blank" rel="dofollow">
+    Dreadhead Parkour
+</a> | 
+
+<a href="https://drifthunters.org/" target="_blank" rel="dofollow">
+    Drift Hunters
+</a> | 
+
+<a href="https://drivemad.net/" target="_blank" rel="dofollow">
+    Drive Mad
+</a> | 
+
+<a href="https://drivemad.org/" target="_blank" rel="dofollow">
+    Drive Mad
+</a> | 
+
+<a href="https://eggy-car.net/" target="_blank" rel="dofollow">
+    Eggy Car
+</a> | 
+
+<a href="https://eggycar.org/" target="_blank" rel="dofollow">
+    Eggy Car
+</a> | 
+
+<a href="https://footballlegends.net/" target="_blank" rel="dofollow">
+    Football Legends
+</a> | 
+
+<a href="https://geometrydash.ee/" target="_blank" rel="dofollow">
+    Geometry Dash
+</a> | 
+<a href="https://geometrydash.it.com/" target="_blank" rel="dofollow">
+    Geometry Dash
+</a> | 
+<a href="https://geometrydashlite.app/" target="_blank" rel="dofollow">
+    Geometry Dash Lite
+</a> | 
+
+<a href="https://googledoodles.org/" target="_blank" rel="dofollow">
+    Google Doodles
+</a> | 
+<a href="https://bulletbros.org/" target="_blank" rel="dofollow">
+    Bullet Bros
+</a> | 
+
+<a href="https://googleminesweeper.org/" target="_blank" rel="dofollow">
+    Google Minesweeper
+</a> | 
+
+<a href="https://googlesnake.org/" target="_blank" rel="dofollow">
+    Google Snake
+</a> | 
+
+<a href="https://googlesolitaire.org/" target="_blank" rel="dofollow">
+    Solitaire
+</a> | 
+
+<a href="https://houseofhazards.org/" target="_blank" rel="dofollow">
+    House Of Hazards
+</a> | 
+
+<a href="https://ironsnout.org/" target="_blank" rel="dofollow">
+    Iron Snout
+</a> | 
+
+<a href="https://jellytruck.org/" target="_blank" rel="dofollow">
+    Jelly Truck
+</a> | 
+
+<a href="https://kiwiclicker.org/" target="_blank" rel="dofollow">
+    Kiwi Clicker
+</a> | 
+
+<a href="https://duckduckclicker.org/" target="_blank" rel="dofollow">
+    Duck Duck Clicker
+</a> | 
+
+<a href="https://leveldevil.net/" target="_blank" rel="dofollow">
+    Level Devil
+</a> | 
+
+<a href="https://mariogames.org/" target="_blank" rel="dofollow">
+    Super Mario Bros
+</a> | 
+
+<a href="https://monkeymart.org/" target="_blank" rel="dofollow">
+    Monkey Mart
+</a> | 
+
+<a href="https://monkeymart.ee/" target="_blank" rel="dofollow">
+    Monkey Mart Unblocked
+</a> | 
+
+<a href="https://moto-x3m.org/" target="_blank" rel="dofollow">
+    Moto X3M
+</a> | 
+
+ 
+<a href="https://poki.ee/" target="_blank" rel="dofollow">
+    Poki Unblocked Games
+</a> | 
+
+<a href="https://retrobowls.org/" target="_blank" rel="dofollow">
+    Retro Bowl
+</a> | 
+
+<a href="https://retrobowlunblocked.org/" target="_blank" rel="dofollow">
+    Retro Bowl Unblocked
+</a> | 
+
+<a href="https://retrobowls.net/" target="_blank" rel="dofollow">
+    Retro Bowl College
+</a> | 
+
+<a href="https://retrobowlunblocked.net/" target="_blank" rel="dofollow">
+    Retro Bowl College Unblocked
+</a> | 
+
+<a href="https://run3unblocked.org/" target="_blank" rel="dofollow">
+    Run 3 Unblocked
+</a> | 
+
+<a href="https://run3game.org/" target="_blank" rel="dofollow">
+    Run 3
+</a> | 
+
+<a href="https://www.sausageflip.org/" target="_blank" rel="dofollow">
+    Sausage Flip
+</a> | 
+
+<a href="https://smashkarts.org/" target="_blank" rel="dofollow">
+    Smash Karts
+</a> | 
+
+<a href="https://soccerrandom.org/" target="_blank" rel="dofollow">
+    Soccer Random
+</a> | 
+
+<a href="https://stickmanhook.org/" target="_blank" rel="dofollow">
+    Stickman Hook
+</a> | 
+
+<a href="https://stickmerge.net/" target="_blank" rel="dofollow">
+    Stick Merge
+</a> | 
+
+<a href="https://subwaysurfersgame.org/" target="_blank" rel="dofollow">
+    Subway Surfers Game
+</a> | 
+
+<a href="https://suikagame.me/" target="_blank" rel="dofollow">
+    Suika Game
+</a> | 
+<a href="https://bitlife.lol/" target="_blank" rel="dofollow">
+    Bitlife
+</a> | 
+
+<a href="https://suikagame.ee/" target="_blank" rel="dofollow">
+    Suika Game
+</a> | 
+
+<a href="https://tiny-fishing.org/" target="_blank" rel="dofollow">
+    Tiny Fishing
+</a> |
+<a href="https://justfall.org/" target="_blank" rel="dofollow">
+    justfall
+</a> |
+<a href="https://fridaynightfunkin.org/" target="_blank" rel="dofollow">
+    fridaynight funkin
+</a> | 
+<a href="https://unblockedgameswtf.org/" target="_blank" rel="dofollow">
+    Unblocked Games wtf
+</a> | 
+<a href="https://freegamestoplay.org/" target="_blank" rel="dofollow">
+    Free Games To Play
+</a> | 
+<a href="https://pingponggo.com/" target="_blank" rel="dofollow">
+Ping Pong Go
+</a> | 
+<a href="https://unblockedgames77.net/" target="_blank" rel="dofollow">
+Unblocked Games 77
+</a> | 
+ 
+
+<a href="https://unblockedgames.ee/" target="_blank" rel="dofollow">
+    Unblocked Games
+</a> |
+<a href="https://unblocked.ee/" target="_blank" rel="dofollow">
+    Unblocked 
+</a> | 
+
+<a href="https://watermelondrop.org/" target="_blank" rel="dofollow">
+    Watermelon Drop
+</a> | 
+
+<a href="https://classroom-6x.org/" target="_blank" rel="dofollow"> Classroom 6x</a> | 
+
+ <a href="https://unblockedgames6x.org/" target="_blank" rel="dofollow"> Unblocked Games 6x</a> | 
+ <a href="https://nowifigames.org/" target="_blank" rel="dofollow"> No Wifi Games</a> | 
+ <a href="https://ubg365.org/" target="_blank" rel="dofollow"> UBG 365</a> | 
+ <a href="https://unblockedgames67.org/" target="_blank" rel="dofollow"> Unblocked Games 67</a> | 
+ <a href="https://unblocked-games76.com/" target="_blank" rel="dofollow"> Unblocked Games 76</a> | 
+ <a href="https://unblocked76.org/" target="_blank" rel="dofollow"> Unblocked 76</a> | 
+ <a href="https://games76.org/" target="_blank" rel="dofollow"> Games 76</a> | 
+ <a href="https://unblockedgames66.net/" target="_blank" rel="dofollow"> Unblocked Games 66</a> 
+    </footer>
+
+
+    <div style="opacity: 0; display: none; visibility: hidden;" id="ad-700x100"> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4938767041116941"
+     crossorigin="anonymous"></script>
+<!-- nav_top -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4938767041116941"
+     data-ad-slot="7811788861"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+    <div style="opacity: 0; display: none; visibility: hidden;" id="ad-400x400-1"><div class="banner-ad-content" style="padding: 20px 0px; text-align: center; height: auto !important;"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4938767041116941"
+     crossorigin="anonymous"></script>
+<!-- classroom6x -->
+<ins class="adsbygoogle"
+    style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-4938767041116941"
+     data-ad-slot="7148596115"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+    <div style="opacity: 0; display: none; visibility: hidden;" id="ad-400x400-2"><div class="banner-ad-content" style="padding: 20px 0px; text-align: center; height: auto !important;"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4938767041116941"
+     crossorigin="anonymous"></script>
+<!-- classroom6x -->
+<ins class="adsbygoogle"
+    style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-4938767041116941"
+     data-ad-slot="7148596115"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+  <script>
+        //  // for advertisements 
+        // var games = document.querySelectorAll(".m-grid-start.home .m-game-card");
+        //     for (let i = 0; i < games.length; i++) {
+        //         const game = games[i];
+            
+
+        //                 //             if (i == 22) {
+        //                 games[i].classList.add("_400x400");
+        //                 games[i].classList.add("advert-space");
+        //                 games[i].classList.add("not-hover");
+        //                 games[i].innerHTML = document.getElementById("ad-400x400-1").innerHTML;
+        //             }
+        //         
+        //                 //             if (i == 39) {
+        //                 games[i].classList.add("_400x400");
+        //                 games[i].classList.add("advert-space");
+        //                 games[i].classList.add("not-hover");
+        //                 games[i].innerHTML = document.getElementById("ad-400x400-2").innerHTML;
+        //             }
+        //         
+        //     }
+
+    </script>
+    <script>
+        var game_frame = document.getElementById("game");
+        if (game_frame) {
+            var game_frame_src = game_frame.src;
+            if (game_frame_src.includes("gamedistribution")) {
+                game_frame.src += "?gd_sdk_referrer_url=https://gamedistribution.com/games/cooking-festival";
+            }
+        }
+
+        const draggable = document.getElementById('draggable');
+        if (draggable) {
+            let offsetY;
+
+            draggable.addEventListener('mousedown', startDragging);
+            draggable.addEventListener('touchstart', startDragging);
+
+            draggable.addEventListener('mouseup', stopDragging);
+            draggable.addEventListener('touchend', stopDragging);
+
+            function startDragging(event) {
+                setTimeout(() => {
+                    if (event.type === 'mousedown') {
+                        offsetY = event.clientY - draggable.getBoundingClientRect().top;
+                        document.addEventListener('mousemove', drag);
+                    } else if (event.type === 'touchstart') {
+                        offsetY = event.touches[0].clientY - draggable.getBoundingClientRect().top;
+                        document.addEventListener('touchmove', drag);
+                    }
+                    // Prevent default behavior to avoid scrolling while dragging on touch devices
+                    event.preventDefault();
+                }, 900)
+            }
+
+            function drag(event) {
+                let clientY;
+                if (event.type === 'mousemove') {
+                    clientY = event.clientY;
+                } else if (event.type === 'touchmove') {
+                    clientY = event.touches[0].clientY;
+                }
+                const newY = clientY - offsetY;
+                draggable.style.top = `${newY}px`;
+            }
+
+            function stopDragging() {
+                document.removeEventListener('mousemove', drag);
+                document.removeEventListener('touchmove', drag);
+            }
+        }
+
+        var is_fullscreen = false;
+        var gameContainer = document.querySelector(".gameplay-container") || document.documentElement;
+        function open_fullscreen() {
+            // let game = document.getElementById("zonFrame");
+            var game = document.getElementById("game");
+
+            if (is_fullscreen) {
+                // Exit fullscreen
+                is_fullscreen = false;
+                gameContainer.classList.remove("full");
+                gameContainer.classList.remove("on-frame");
+                exitFullscreen();
+            } else {
+                // Enter fullscreen
+                is_fullscreen = true;
+                enterFullscreen(gameContainer);
+                gameContainer.classList.add("full");
+                gameContainer.classList.add("on-frame");
+            }
+        }
+
+        function enterFullscreen(element) {
+            if (element.requestFullscreen) {
+                element.requestFullscreen();
+            } else if (element.mozRequestFullScreen) { /* Firefox */
+                element.mozRequestFullScreen();
+            } else if (element.webkitRequestFullscreen) { /* Chrome, Safari and Opera */
+                element.webkitRequestFullscreen();
+            } else if (element.msRequestFullscreen) { /* IE/Edge */
+                element.msRequestFullscreen();
+            }
+        }
+
+        function exitFullscreen() {
+            var doc = document || documentElement;
+            if (doc.exitFullscreen) {
+                doc.exitFullscreen();
+            } else if (doc.mozCancelFullScreen) { /* Firefox */
+                doc.mozCancelFullScreen();
+            } else if (doc.webkitExitFullscreen) { /* Chrome, Safari and Opera */
+                doc.webkitExitFullscreen();
+            } else if (doc.msExitFullscreen) { /* IE/Edge */
+                doc.msExitFullscreen();
+            }
+
+            gameContainer.classList.remove("full");
+            console.log("Exiting fullscreen mode");
+        }
+
+        // Event listener for exiting fullscreen
+        document.addEventListener("fullscreenchange", function () {
+            if (!document.fullscreenElement) {
+                // Update UI when exiting fullscreen
+                gameContainer.classList.remove("full");
+                gameContainer.classList.remove("on-frame");
+
+                if (is_fullscreen) {
+                    document.getElementById("full_screen").click();
+                }
+            }
+        });
+
+
+        function fullScreen() {
+            var game = document.getElementById("game");
+            var gameContainer = document.querySelector(".gameplay-container");
+            gameContainer.classList.toggle("full");
+        }
+
+        var games = document.querySelectorAll(".m-grid-start.home .m-game-card");
+        var GamePageGames = document.querySelectorAll(".m-grid-start.game-page .m-game-card");
+        var liveSearch = document.querySelector(".live-search input");
+        var liveSearchoffcanvasAttachedButton = document.querySelector(".live-search .live-search-attached-button");
+
+        if (games.length > 0 && games !== null) {
+            // for game card sizes
+            for (let i = 0; i < games.length; i++) {
+                const game = games[i];
+
+                var CardSize = games[i].getAttribute("data-card-size");
+                var IsFeaturedGame = games[i].getAttribute("data-game-f");
+                if (CardSize === 'md') {
+                    games[i].classList.add("md")
+                }
+
+                if (IsFeaturedGame === 'Yes') {
+                    games[i].classList.add("lg")
+                }
+
+            }
+
+            // 
+            // for advertisements 
+            for (let i = 0; i < GamePageGames.length; i++) {
+                const game = games[i];
+                                    if (i == 50) {
+                        games[i].classList.add("_700x700");
+                        games[i].classList.add("advert-space");
+                        games[i].classList.add("not-hover");
+                        games[i].innerHTML = document.getElementById("ad-700x100").innerHTML;
+                    }
+                
+                                    if (i == 0) {
+                        games[i].classList.add("_400x400");
+                        games[i].classList.add("advert-space");
+                        games[i].classList.add("not-hover");
+                        games[i].innerHTML = document.getElementById("ad-400x400-1").innerHTML;
+                    }
+                
+                                    if (i == 79) {
+                        games[i].classList.add("_400x400");
+                        games[i].classList.add("advert-space");
+                        games[i].classList.add("not-hover");
+                        games[i].innerHTML = document.getElementById("ad-400x400-2").innerHTML;
+                    }
+                
+            }
+        }
+
+        if (liveSearch !== null || liveSearch !== undefined) {
+            var searchIcon = `<svg width="20px" height="20px" viewBox="0 0 24 24" stroke-width="1.1" fill="none" xmlns="http://www.w3.org/2000/svg" color="#8c8c8c"><path d="M17 17L21 21" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"></path><path d="M3 11C3 15.4183 6.58172 19 11 19C13.213 19 15.2161 18.1015 16.6644 16.6493C18.1077 15.2022 19 13.2053 19 11C19 6.58172 15.4183 3 11 3C6.58172 3 3 6.58172 3 11Z" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"></path></svg>`;
+            var xIcon = `<svg width="20px" height="20px" stroke-width="1.1" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#8c8c8c"><path d="M6.75827 17.2426L12.0009 12M17.2435 6.75736L12.0009 12M12.0009 12L6.75827 6.75736M12.0009 12L17.2435 17.2426" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"></path></svg>`;
+            const clearInputValue = () => {
+                liveSearch.value = '';
+                liveSearchoffcanvasAttachedButton.innerHTML = searchIcon;
+                liveSearchoffcanvasAttachedButton.disabled = true;
+                document.getElementById("live-search-result").style.display = "none";
+                document.getElementById("offconvas-content").style.display = "block";
+                document.querySelector(".search-error").style.display = "none";
+                return true;
+            }
+            liveSearch.addEventListener("keyup", () => {
+                if (liveSearch.value.length > 0) {
+                    liveSearchoffcanvasAttachedButton.addEventListener("click", clearInputValue);
+                    liveSearchoffcanvasAttachedButton.innerHTML = xIcon;
+                    liveSearchoffcanvasAttachedButton.disabled = false;
+                } else {
+                    liveSearchoffcanvasAttachedButton.removeEventListener("click", clearInputValue);
+                    liveSearchoffcanvasAttachedButton.innerHTML = searchIcon;
+                    liveSearchoffcanvasAttachedButton.disabled = true;
+                }
+            })
+        }
+    </script>
+    <script> new WOW().init();  </script>
+    <script src="https://classroom-6x.org/themes/poko/js/main.js"></script>
+    <script src="https://classroom-6x.org/js/jquery.min.js"></script>
+    <script>
+        $(document).on("click", (event) => {
+            if (!event.target.closest(".offcanvas-menu") && !event.target.closest(".open-menu") && !event.target.closest(".live-search-attached-button")) {
+                $(".offcanvas").removeClass("active");
+            }
+
+            if (!event.target.closest(".more-option") && !event.target.closest(".more-opt-button")) {
+                $(".more-option").removeClass("active");
+            }
+        });
+
+
+        $(".live-search input").on("keyup", (event) => {
+            if (event.target.value.length > 0) {
+                LoadGameData();
+                $("#live-search-result").show();
+                $("#offconvas-content").hide();
+            } else {
+                $("#live-search-result").hide();
+                $(".search-error").hide();
+                $("#offconvas-content").show();
+            }
+        })
+
+        function LoadGameData() {
+            // var sLoader = $(".live-search-loader");
+
+            var sinput = $(".live-search input");
+            // setTimeout(() => {
+            $.post("https://classroom-6x.org/xhr/live-search.php", {
+                query: sinput.val() ? sinput.val() : 'a',
+            }, (data) => {
+                if (data == "0") {
+                    $(".search-error").show();
+                    $("#live-search-result").hide();
+                    $("#offconvas-content").show();
+                } else {
+                    $(".search-error").hide();
+                    $("#live-search-result").show();
+                    $("#offconvas-content").hide();
+                    $("#live-search-result").html(data);
+                }
+                // $("#live-games").html(data);
+                // sLoader.hide();
+            });
+
+            // page_no++;
+            // }, 1500);
+        }
+
+
+        $("#Like").on("click", () => {
+            $.post(`${window.poki.url}xhr/like.php`, {
+                gi: window.poki.game_id
+            }, (data) => {
+                var data = JSON.parse(data);
+                $("#Like").toggleClass("active");
+                $("#Dislike").removeClass("active");
+                $("#Like_Count").text(data.like);
+                $("#Dislike_Count").text(data.dislike);
+            });
+        });
+
+        $("#Dislike").on("click", () => {
+            $.post(`${window.poki.url}xhr/dislike.php`, {
+                gi: window.poki.game_id
+            }, (data) => {
+                var data = JSON.parse(data);
+                // if (data == 1) {
+                $("#Like").removeClass("active");
+                // }
+                $("#Dislike").toggleClass("active");
+                $("#Like_Count").text(data.like);
+                $("#Dislike_Count").text(data.dislike);
+                console.log(data);
+            });
+        });
+
+        $(".send-report").on("click", () => {
+            var subject = $("#report_textarea").val();
+            var game_id = window.poki.game_id;
+            var game_name = window.poki.game_name;
+
+            $.post(`${window.poki.url}xhr/report.php`, {
+                problem: subject,
+                game_id: game_id,
+                game_name: game_name
+            }, (data) => {
+                if (data == 1) {
+                    $(".report-popup").removeClass("active");
+                    $(".thank-you-popup").addClass("active");
+                    setTimeout(() => {
+                        $(".thank-you-popup").removeClass("active");
+                    }, 3000);
+                }
+                // var data = JSON.parse(data);
+                // // if (data == 1) {
+                // $("#Like").removeClass("active");
+                // // }
+                // $("#Dislike").toggleClass("active");
+                // $("#Like_Count").text(data.like);
+                // $("#Dislike_Count").text(data.dislike);
+                // console.log(data);
+            });
+        })
+    </script>
+</body>
+
+</html>
